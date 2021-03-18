@@ -2,4 +2,8 @@
     <string name="app_name">Activities and intents</string>
     <string name="button_main">SEND</string>
     <string name="text_header">Message Recieved</string>
+    <string name="editText_main">EditText</string>
+    <string name="editText_second">editText</string>
+    <string name="button_second">ButtonSecond</string>
+    <string name="text_header_reply">Reply Received</string>
 </resources>
